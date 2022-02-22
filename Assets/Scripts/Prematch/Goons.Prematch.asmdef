@@ -1,0 +1,19 @@
+{
+    "name": "Goons.Prematch",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a81283aa468b2154082b08953bf8f439",
+        "GUID:3ff2ec5b5bf317143af45ed2c2846c0c",
+        "GUID:b3bf0ab150df558428519560acaa9871",
+        "GUID:6d0c326c3efa96847a538ce2903cbcb6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

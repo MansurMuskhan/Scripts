@@ -1,0 +1,26 @@
+{
+    "name": "Goons.DI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a81283aa468b2154082b08953bf8f439",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:1e27103c564b7b349be2088a24bee9b6",
+        "GUID:3ff2ec5b5bf317143af45ed2c2846c0c",
+        "GUID:82f450be07defe74fbe0c08627a07f6a",
+        "GUID:0efda621b55048546bebec7972a4b4a1",
+        "GUID:a94432e080c55dd4bb08045692daefa8",
+        "GUID:6d0c326c3efa96847a538ce2903cbcb6",
+        "GUID:a8d7ccc90124b1a4c82b13297c578a79",
+        "GUID:bb87bee5ceb2a304eadd2339e6fe46bf",
+        "GUID:bc5eb9d225e4a354dacbf3a0b9d1050e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

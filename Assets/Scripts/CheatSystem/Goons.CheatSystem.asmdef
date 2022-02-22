@@ -1,0 +1,16 @@
+{
+    "name": "Goons.CheatSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3ff2ec5b5bf317143af45ed2c2846c0c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

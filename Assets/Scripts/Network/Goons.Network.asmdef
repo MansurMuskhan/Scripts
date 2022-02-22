@@ -1,0 +1,20 @@
+{
+    "name": "Goons.Network",
+    "rootNamespace": "",
+    "references": [
+        "GUID:04376767bc1f3b428aefa3d20743e819",
+        "GUID:3ff2ec5b5bf317143af45ed2c2846c0c",
+        "GUID:a44f47cf3ada4435dbc516bad0bc86fe",
+        "GUID:b3bf0ab150df558428519560acaa9871",
+        "GUID:bb87bee5ceb2a304eadd2339e6fe46bf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
